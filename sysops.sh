@@ -1,11 +1,19 @@
 #!/bin/bash
-####################################################################
-# Co-Author: Moises Delos Reyes (moisesdelosreyes77@gmail.com)
+#######################################################################################
 # Company: Seven Seven Software
 # Group: Sysops (System Operation)
 # Date: Jan 2019 - Dec 2021
-# Version: 2.21
-####################################################################
+---------------------------------------------------------------------------------------
+#Script Name    :sysops.sh
+#Description    :Complete tools for linux administration
+#               :of every email account listed.
+#Args           :N/A       
+#Co-Author      :Moises Delos Reyes
+#Author         :Mina Lee (BlackHat)
+#Email          :moisesdelosreyes77@gmail.com
+#License        :GNU GPL-3	 Version: 2.21
+#######################################################################################
+
 #simple menu driven shell script to to get information about your Linux server / desktop and Do some Users and File operations Quickly.
 
 
